@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt-facility</name>
+   <tag></tag>
+   <elementGuidId>31290c85-b4e8-44d3-b99e-cd7a91a5a23f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[@id='facility']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//p[@id='facility']</value>
+      <webElementGuid>a4dfd89d-8972-4759-a236-a37bf9a1262b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

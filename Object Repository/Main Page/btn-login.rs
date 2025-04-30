@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn-login</name>
+   <tag></tag>
+   <elementGuidId>169d3339-c454-4a7b-b82d-defd0cf37aab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;sidebar-wrapper&quot;]//a[contains(text(),'Login')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;sidebar-wrapper&quot;]//a[contains(text(),'Login')]</value>
+      <webElementGuid>34582db5-2154-4369-87ec-f9e2ae06a5c1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

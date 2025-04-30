@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select-facility</name>
+   <tag></tag>
+   <elementGuidId>ea64d6b0-75de-45d8-9024-99eee736ea58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id='combo_facility']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select[@id='combo_facility']</value>
+      <webElementGuid>43f5b932-549a-44d7-9618-f57b1c6165d6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

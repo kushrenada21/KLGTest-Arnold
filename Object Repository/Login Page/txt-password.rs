@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt-password</name>
+   <tag></tag>
+   <elementGuidId>1401efd3-c45b-4a41-8624-492ca5f6ab9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='txt-password']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='txt-password']</value>
+      <webElementGuid>dfcf6831-06c0-4a40-a20d-1bb1f13d0010</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

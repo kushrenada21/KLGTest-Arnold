@@ -1,0 +1,4 @@
+facility,readmission,program,visit-date,comment,status
+Seoul CURA Healthcare Center,yes,medicare,10/05/2025,sama dokter joko,valid
+Tokyo CURA Healthcare Center,no,medicaid,17/05/2025,sama dokter bambang,valid
+Hongkong CURA Healthcare Center,no,none,24/05/2025,sama dokter udin,invalid

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt-username</name>
+   <tag></tag>
+   <elementGuidId>2d9e0168-1a0e-4845-af20-d9b26ab76d1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='txt-username']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='txt-username']</value>
+      <webElementGuid>581d1377-37ff-4b95-b7ba-25a44d5f3845</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

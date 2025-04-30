@@ -1,0 +1,4 @@
+username,password,validation
+John Doe,ThisIsNotAPassword,valid
+Arnold,Wijaya,invalid
+Udin,,blank

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtarea-comment</name>
+   <tag></tag>
+   <elementGuidId>d55f24ab-b76a-48e9-b050-e2efe5a85abd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;txt_comment&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;txt_comment&quot;]</value>
+      <webElementGuid>f4270098-cfd3-49d4-b591-43bfac9a6518</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

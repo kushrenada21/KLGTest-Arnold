@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn-home</name>
+   <tag></tag>
+   <elementGuidId>6ad9bd40-165a-4e06-b808-bf6bc191fd85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;sidebar-wrapper&quot;]//a[contains(text(),'Home')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;sidebar-wrapper&quot;]//a[contains(text(),'Home')]</value>
+      <webElementGuid>60e9a91e-9633-479b-a7aa-7a0d08ba9305</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

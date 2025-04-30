@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn-logout</name>
+   <tag></tag>
+   <elementGuidId>79e2958b-a39f-4be8-8a5b-36522ec82fe9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;sidebar-wrapper&quot;]//a[contains(text(),'Login')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;sidebar-wrapper&quot;]//a[contains(text(),'Logout')]</value>
+      <webElementGuid>5403ed85-4614-4f57-ab06-70d1474fb47d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

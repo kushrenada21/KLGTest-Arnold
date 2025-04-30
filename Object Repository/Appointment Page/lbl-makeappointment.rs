@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl-makeappointment</name>
+   <tag></tag>
+   <elementGuidId>3aac9ded-f910-4a70-9c61-a48d4e6979a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;appointment&quot;]/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;appointment&quot;]/div/div/div/h2</value>
+      <webElementGuid>90127810-d52c-437d-b5d0-4658cf53bc95</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

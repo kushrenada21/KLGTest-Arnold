@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rad-healthcareprogram</name>
+   <tag></tag>
+   <elementGuidId>1965172b-2fc4-49bc-ac3f-ba727d9b4fe8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;radio_program_'${program}'&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;radio_program_${program}&quot;]</value>
+      <webElementGuid>eda34860-c990-40c9-a2c4-11590b46682f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

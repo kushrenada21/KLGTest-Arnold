@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk-readmission</name>
+   <tag></tag>
+   <elementGuidId>b883cd2c-d01d-40a8-8f64-b5ef050b6520</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='chk_hospotal_readmission']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='chk_hospotal_readmission']</value>
+      <webElementGuid>c053eb19-7fb0-4fa4-936e-9d194f469acc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

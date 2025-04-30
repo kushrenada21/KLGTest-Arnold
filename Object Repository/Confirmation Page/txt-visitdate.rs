@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt-visitdate</name>
+   <tag></tag>
+   <elementGuidId>7ed37a27-2f6f-4e89-84a6-231c0e08b70b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[@id='visit_date']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//p[@id='visit_date']</value>
+      <webElementGuid>fa68d920-6aad-4b29-ab98-eff0b5d8d1cb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
